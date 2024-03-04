@@ -1,12 +1,12 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<!-- <h3> नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋</h3> -->
-### नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋
-[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/varadbhogayata/)
-[![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:vbhogayata@gmail.com) 
+<!-- <h3> नमस्ते (Namaste)🙏🏻, I am  Abhay Kumar 👋</h3> -->
+### नमस्ते (Namaste)🙏🏻, I am Abhay Kumar 👋
+[![Linkedin Badge](https://img.shields.io/badge/-AbhayKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbhayKumar/)](https://www.linkedin.com/in/abhay-kumar-934549211/)
+[![Gmail Badge](https://img.shields.io/badge/-a4abhay2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a4abhay2002@gmail.com)](mailto:a4abhay2002@gmail.com) 
 
 
-- 🎯 Portfolio website: [Portfolio](https://varadbhogayata.github.io/)
+- 🎯 Portfolio website: [Portfolio]()
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
@@ -28,7 +28,7 @@
 
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
+- Frontend Development ✍️
 
 
 ### :zap: Github Stats
