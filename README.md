@@ -1,14 +1,17 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<!-- <h3> नमस्ते (Namaste)🙏🏻, I am  Abhay Kumar 👋</h3> -->
-### नमस्ते (Namaste)🙏🏻, I am Abhay Kumar 👋
-[![Linkedin Badge](https://img.shields.io/badge/-AbhayKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/AbhayKumar/)](https://www.linkedin.com/in/abhay-kumar-934549211/)
-[![Gmail Badge](https://img.shields.io/badge/-a4abhay2002@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a4abhay2002@gmail.com)](mailto:a4abhay2002@gmail.com) 
-
-
-- 🎯 Portfolio website: [Portfolio]()
-- 💬 Ask me about anything, I am happy to help :smile:
+<h1 align="center"> नमस्ते 🙏🏻, Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Abhay Kumar </h1>
+<br>
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<h3> 🧑 I'm a Programmer, Developer, and Freelancer!!</h3>
+- 🌱 I’m currently learning DevOps 
+- 💬 Ask me about **C/C++,Javascript,Python**
+- ⚡ Fun fact: I love to play Cricket🏏 .
 - 📬 How to reach me: [Let's get in touch!][[linkedin](https://www.linkedin.com/in/abhay-kumar-934549211/)]
+- 📄 Know about my experiences [[linkedin](https://www.linkedin.com/in/abhay-kumar-934549211/)]
+
+<br/>
+
 
 ### Languages and Tools: 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
