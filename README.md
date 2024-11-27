@@ -9,7 +9,7 @@ src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-head
 <h3> 🧑 I'm a Programmer, Developer, and Freelancer!!</h3>
 
 - 🌱 I’m currently learning DevOps 
-- 💬 Ask me about **C/C++,Javascript,Python**
+- 💬 Ask me about **C/C++,Javascript,Python, Salesforce Admin ,CPQ,FSL,Salesforce Development**
 - ⚡ Fun fact: I love to play Cricket🏏 .
 - 📬 How to reach me: [Let's get in touch!]
 - 📄 Know about my experiences [[linkedin]]
