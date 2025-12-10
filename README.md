@@ -1,39 +1,17 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-![Matrix SVG](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
-<h1 align="center"> नमस्ते 🙏🏻, Hi there https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif I am Abhay Kumar </h1>
+<h1 align="center"> नमस्ते 🙏🏻, Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+I am Abhay Kumar </h1>
 <br>
-https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg
+<img width="50%" align="right" alt="Github Image" 
+src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<h3> 🧑 I'm a Certified Salesforce Developer !!</h3>
 
-- 🌱 Currently learning **DevOps**
-- 💬 Ask me about **C/C++, JavaScript, Python, Salesforce Admin, CPQ, FSL, Salesforce Development**
-- ⚡ Fun fact: I love to play Cricket 🏏
-- 📬 How to reach me: LinkedIn
-- 📄 Know about my experiences below 👇
+<h3> 🧑 I'm a  Certified Salesforce Developer !!</h3>
 
----
-
-## 🏆 **Certifications**
-!Salesforce Platform Developer I
-!Salesforce AI Associate
-![Salesforce AI Specialist](https://img.shields.io/badge/Salesforce-AI%20Specialist-blue?logo=salesforce)
-![SQL Certified](https://img.shields.io/badge/SQL-Certified-green?logo=database)
-!Web Development
-
----
 
 ## 💼 **Professional Summary**
 Certified Salesforce Developer with **2 years of experience** in designing and implementing custom Salesforce solutions, ensuring application stability, optimizing functionality, and managing smooth deployments to deliver high-quality results.
-
-**Key Highlights:**
-- Experience in **Sales and Service Cloud development**
-- Skilled in **Apex Classes, Triggers,rofiles, Custom Objects
-- Experienced with **Flows** – Auto-launched, Record Triggered, Scheduled, Screen Flows
-- Good debugging, deployment, and agile methodology knowledge
-
----
 
 ## 🛠 **Skills**
 **Salesforce:** Sales Cloud, Service Cloud, LWC, Flows, Apex, Triggers, SOQL, SOSL, Visualforce, Admin  
@@ -41,71 +19,49 @@ Certified Salesforce Developer with **2 years of experience** in designing and i
 **Tools:** GitHub, VSCode, JIRA, DevOps (Copado)  
 **Deployment:** Change Sets, Metadata API  
 
----
 
-## 📚 **Work Experience**
-### **WarpDrive TechWorks** *(May 2024 – Present)*  
-**Technical Specialist (Salesforce Developer)** – Bangalore, India  
-- **Project: Phoenix (Sept 2024 – Present)**  
-  - Enhanced and stabilized legacy Salesforce project using Apex, Visualforce, LWC, Flows  
-  - Debugged and maintained 20-year-old Salesforce application  
-- **Project: IFB and CGS (Feb 2024 – Aug 2024)**  
-  - Designed Service Cloud CRM for appliance support  
-  - Developed LWC, Apex classes, Flows, and integrated APIs for field service management  
-  - Configured schema, security, validation, and record pages  
 
-### **Kaplan, Inc.** *(April 2023 – April 2024)*  
-**Salesforce Developer** – Bangalore, India  
-- Developed Salesforce solutions for avionics domain  
-- Built Visualforce pages and LWCs to improve UX  
-- Integrated third-party systems via REST APIs  
-- Created Apex Classes, Triggers, Batch Classes, and Schedule Classes  
+- 🌱 I’m currently learning DevOps 
+- 💬 Ask me about **C/C++,Javascript,Python, Salesforce Admin ,CPQ,FSL,Salesforce Development**
+- ⚡ Fun fact: I love to play Cricket🏏 .
+- 📬 How to reach me: [Let's get in touch!]
+- 📄 Know about my experiences [[linkedin]]
 
----
+<br/>
 
-## 🎓 **Education**
-- **Bangalore Institute Of Technology** *(Sep 2020 – May 2024)*  
-  Bachelor of Engineering in Electronics and Communication – CGPA: 8.2  
-- **Mahatma Gandhi Shikshan Sansthan** *(May 2017 – May 2019)*  
-  Senior Secondary (12th) – CGPA: 7.8  
 
----
+### Languages and Tools: 
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-## 🔧 **Languages and Tools**
-https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png
-<imgs://raw.githubusercontent.com/github/explore/master/topics/python/python.png
-https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png
-https://raw.githubusercontent.com/github/explore/master/topics/react/react.png
-https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png
-https://raw.githubusercontent.com/github/explore/master/topics/git/git.png
-https://raw.githubusercontent.com/github/explore/master/topics/github/github.png
-<br><br>
+<br>
+<br>
 
----
+### Things I love:
+- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Frontend Development ✍️
 
-## 🚀 **Personal Projects**
-### **1. Salesforce Recruitment Automation**
-- Automated candidate recruitment stages using **Flows** and **Apex**
-- Implemented email notifications and rejection logic based on predefined conditions
-- Built dashboards to track KPIs
 
-### **2. Field Service Lightning Integration**
-- Developed **LWC components** for scheduling and service appointments
-- Integrated external APIs for real-time updates
-- Configured security models for multiple user profiles
-
-### **3. Custom Roll-Up Summary**
-- Built an **Apex Trigger + Handler + Helper** to count Contacts per Account
-- Implemented bulk-safe logic and recursion guard
-
----
-
-## ⚡ **GitHub Stats**
+### :zap: Github Stats
 <div align="center">
-<img width="48%" src="https://github-readme-statsme=AbhayRoy1&show_icons=true&theme=tokyonight
-<imgs://github-readme-streak-stats.herokuapp.com/?user=AbhayRoy1&theme=tokyonight
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbhayRoy1&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayRoy1&theme=tokyonight" />
 </div>
 
----
 
-<h3 align="center">Show some ❤️ by starring repositories!</h3>
+<div align="center">
+  
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+
+<!--[website]: -->
+[linkedin]: https://www.linkedin.com/in/abhay-kumar-934549211/
